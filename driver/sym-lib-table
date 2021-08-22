@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nixie)(type Legacy)(uri C:/Users/hjpark/Documents/kiCad/nixie/kicad_nixie-master/nixie.lib)(options "")(descr ""))
+  (lib (name nixies-us)(type Legacy)(uri C:/Users/hjpark/Documents/kiCad/nixie/Eagle-and-KiCAD-Nixie-Libs-master/nixies-us.lib)(options "")(descr ""))
+)
